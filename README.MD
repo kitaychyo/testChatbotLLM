@@ -31,7 +31,7 @@ Telegram-бот с поддержкой LLM (ChatGPT-совместимые мо
 
 ```
 ChatbotWithLLM/
-│── bot.py
+│── main.py
 │── requirements.txt
 │── README.md
 │── .gitignore
@@ -80,7 +80,7 @@ OPENROUTER_API_KEY=your_openrouter_api_key
 ## ▶️ Запуск бота
 
 ```bash
-python bot.py
+python main.py
 ```
 
 ---
